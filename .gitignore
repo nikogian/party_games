@@ -1,0 +1,4 @@
+gameappenv/
+*.pyc
+__pycache__/
+gameapp.db
